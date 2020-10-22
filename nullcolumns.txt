@@ -1,0 +1,26 @@
+Columns with Nulls:
+iso_code                        293
+continent                       586
+total_cases                    3594
+new_cases                       865
+total_deaths                  12338
+new_deaths                      865
+total_cases_per_million        3851
+new_cases_per_million           929
+total_deaths_per_million      12580
+new_deaths_per_million          929
+new_tests                     32480
+total_tests                   32110
+total_tests_per_thousand      32110
+new_tests_per_thousand        32480
+positive_rate                 31469
+stringency_index               8861
+population                      293
+population_density             2631
+median_age                     5558
+gdp_per_capita                 6155
+female_smokers                15488
+male_smokers                  15941
+hospital_beds_per_thousand    10011
+life_expectancy                 938
+dtype: int64
