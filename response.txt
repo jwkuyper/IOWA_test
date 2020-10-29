@@ -1,0 +1,1 @@
+{"schema": {"fields": [{"name": "index", "type": "integer"}, {"name": "Prediction", "type": "number"}], "primaryKey": ["index"], "pandas_version": "0.20.0"}, "data": [{"index": 0, "Prediction": 371.5866119049}]}
