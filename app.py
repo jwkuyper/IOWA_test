@@ -72,3 +72,6 @@ api.add_resource(PredictRegression, '/regression')
 if __name__ == '__main__':
     #app.run(debug=True)
     app.run(host='0.0.0.0', port=port)
+    
+#Postman: http://127.0.0.1:5000/regression?iso_code=103&total_cases=32364&total_deaths=548&new_deaths=6&total_cases_per_million=601.882&new_cases_per_million=4.575&total_deaths_per_million=10.191&new_deaths_per_million=0.112&new_tests=3381&total_tests=425364&total_tests_per_thousand=7.911&new_tests_per_thousand=0.063&population=53771300&median_age=20&life_expectancy=66.7
+    
